@@ -1,0 +1,5 @@
+in order to run the code, run 'main_real.m'
+
+after the run is finished, a mat file is produced, with using 'vis_paper.m' you can visualize results
+
+good luck 
